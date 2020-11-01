@@ -18,12 +18,12 @@
 </a>
 <br />
 
-## I'm a Developer, and Teacher!
+## I'm a Developer!
 
 - 🔭 I’m working on Java and C# projects
 - 🌱 Currently learning Js
 - 💬 Ask me about anything 😛
-- 🥅 Goals: be Full Stack Developer
+- 🥅 Goals: Become a Full Stack Developer
 - ⚡ Fun fact: During your lifetime, you will spend around thirty-eight days brushing your teeth.
 - 📫 How to reach me: Email - suhib.alabed@gmail.com
 
