@@ -1,16 +1,35 @@
 ### Hi there 👋
 
-<!--
-**SuheibAlabed/SuheibAlabed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br/>
+<a href="#">
+  <img align="left" alt="Prashant Gaikwad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://in.linkedin.com/in/suheib-alabed">
+  <img align="left" alt="Prashant's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/suheib_98/">
+  <img align="left" alt="Prashant's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCY9lxoPpv2zMOuinWYzb1xA?view_as=subscriber">
+  <img align="left" alt="Prashant's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<br />
+
+## I'm a Developer, and Teacher!
+
+- 🔭 I’m working on Java and C# projects
+- 🌱 Currently learning Js
+- 💬 Ask me about anything 😛
+- 🥅 Goals: be Full Stack Developer
+- ⚡ Fun fact: During your lifetime, you will spend around thirty-eight days brushing your teeth.
+- 📫 How to reach me: Email - suhib.alabed@gmail.com
+
+### Details:
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="Suheib Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SuheibAlabed&show_icons=true&hide_border=true" />
+</details>
+
