@@ -18,7 +18,7 @@
 </a>
 <br />
 
-## I'm a Developer!
+## I'm a Web Developer!
 
 - 🔭 I’m working on Java and C# projects
 - 🌱 Currently learning Js
