@@ -21,7 +21,7 @@
 ## I'm a Web Developer!
 
 - 🔭 I’m working on Java and C# projects
-- 🌱 Currently learning Js
+- 🌱 Currently learning mern stack
 - 💬 Ask me about anything 😛
 - 🥅 Goals: Become a Full Stack Developer
 - ⚡ Fun fact: During your lifetime, you will spend around thirty-eight days brushing your teeth.
