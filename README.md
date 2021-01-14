@@ -20,7 +20,7 @@
 
 ## I'm a Web Developer!
 
-- 🔭 I’m working on Java and C# projects
+- 🔭 I’m working on React
 - 🌱 Currently learning PHP
 - 💬 Ask me about anything 😛
 - 🥅 Goals: Become a Full Stack Developer
