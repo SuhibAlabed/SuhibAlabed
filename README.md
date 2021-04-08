@@ -20,7 +20,7 @@
 
 ## I'm a Web Developer!
 
-- 🌱 Currently learning PHP
+- 🌱 Currently learning ReactJs
 - 💬 Ask me about anything 😛
 - 🥅 Goals: Become a Full Stack Developer
 - ⚡ Fun fact: During your lifetime, you will spend around thirty-eight days brushing your teeth.
