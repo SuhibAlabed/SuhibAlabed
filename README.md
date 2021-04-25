@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 
-
+<style>
+.icon{
+  color:#51c4d3
+  }
+</style>
 
 <br/>
 <a href="#">
-  <img align="left" style="background:#51c4d3" alt="Prashant Gaikwad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" class="icon" alt="Prashant Gaikwad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://in.linkedin.com/in/suheib-alabed">
   <img align="left" style="color:#51c4d3" alt="Prashant's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
