@@ -1,11 +1,6 @@
 ### Hi there 👋
 
 
-<style>
-.icon{
-  color:#51c4d3
-  }
-</style>
 
 <br/>
 <a href="#">
