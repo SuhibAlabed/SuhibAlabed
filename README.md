@@ -1,10 +1,15 @@
 ### Hi there 👋
 
 
+- text in red
++ text in green
+! text in orange
+# text in gray
+
 
 <br/>
 <a href="#">
- + text in green <img align="left" class="icon" alt="Prashant Gaikwad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" class="icon" alt="Prashant Gaikwad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://in.linkedin.com/in/suheib-alabed">
   <img align="left" style="color:#51c4d3" alt="Prashant's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
