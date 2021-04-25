@@ -5,20 +5,20 @@
 
 <br/>
 <a href="#">
-  <img align="left" alt="Prashant Gaikwad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" style="color:#51c4d3" alt="Prashant Gaikwad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://in.linkedin.com/in/suheib-alabed">
-  <img align="left" alt="Prashant's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" style="color:#51c4d3" alt="Prashant's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/suheib_98/">
-  <img align="left" alt="Prashant's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" style="color:#51c4d3" alt="Prashant's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCY9lxoPpv2zMOuinWYzb1xA?view_as=subscriber">
-  <img align="left" alt="Prashant's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left"  style="color:#51c4d3"alt="Prashant's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <br />
 
-## I'm a Web Developer!
+## I'm a Full Stack Developer!
 
 - 🌱 Currently learning ReactJs
 - 💬 Ask me about anything 😛
