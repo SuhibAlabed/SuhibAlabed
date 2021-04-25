@@ -24,7 +24,7 @@
 - 🥅 Goals: Become a Full Stack Developer
 - ⚡ Fun fact: During your lifetime, you will spend around thirty-eight days brushing your teeth.
 - 📫 How to reach me: Email - suhib.alabed@gmail.com
-- 🖥 My Portfolio: <a href="https://www.suheibalabed.tech/">Visit...</a>
+- 🖥 My Portfolio: <a href="https://www.suheibalabed.tech/" target="_blank">Visit...</a>
 
 ### Details:
 <details>
