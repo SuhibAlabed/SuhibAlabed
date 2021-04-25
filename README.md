@@ -1,11 +1,6 @@
 ### Hi there 👋
 
 
-- text in red
-+ text in green
-! text in orange
-# text in gray
-
 
 <br/>
 <a href="#">
