@@ -17,11 +17,11 @@
 </a>
 <br />
 
-## I'm a Full Stack Developer!
+## I'm a Software Engineer!
 
-- 🌱 Currently learning ReactJs
+- 🌱 Currently learning ReactNative
 - 💬 Ask me about anything 😛
-- 🥅 Goals: Become a Full Stack Developer
+- 🥅 Goals: Become a Solution Architect.
 - ⚡ Fun fact: During your lifetime, you will spend around thirty-eight days brushing your teeth.
 - 📫 How to reach me: Email - suhib.alabed@gmail.com
 - 🖥 My Portfolio: <a href="https://www.suheibalabed.tech/" target="_blank">Visit...</a>
